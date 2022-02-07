@@ -1,0 +1,5 @@
+package br.org.generation.pigotadagua.configuration;
+
+public class SwaggerConfig {
+
+}
